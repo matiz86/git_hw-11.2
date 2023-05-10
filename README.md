@@ -20,11 +20,11 @@
 
 Приведите скриншот, на котором видно, что спустя 5 секунд ключи удалились из базы.
 
-![alt text](https://github.com/matiz86/git_hw-11.2/blob/main/Screenshot_1.jpg
+![alt text](https://github.com/matiz86/git_hw-11.2/blob/main/Screenshot_1.png)
 
 Задание 4. Запись данных в Redis
 Запишите в Redis несколько ключей с любыми именами и значениями.
 
 Через redis-cli достаньте все записанные ключи и значения из базы, приведите скриншот этой операции.
 
-![alt text](https://github.com/matiz86/git_hw-11.2/blob/main/Screenshot_3.jpg
+![alt text](https://github.com/matiz86/git_hw-11.2/blob/main/Screenshot_3.png)
